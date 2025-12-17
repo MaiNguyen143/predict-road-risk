@@ -8,7 +8,6 @@ Which road segments are most likely to experience accidents, and which intervent
 We integrated environmental, infrastructural, and temporal data to model accident risk at the road-segment level. An optimized Random Forest model was trained and validated to capture nonlinear relationships and interaction effects across features.
 
 **Key Findings**
-
 The model surfaced clear, actionable risk drivers, including:
 - Curve severity
 - Lighting conditions
